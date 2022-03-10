@@ -1,0 +1,49 @@
+body {
+    background-image: url("architect-g21dd3cea4_1920.jpg");
+    font-family: sans-serif;
+}
+
+table {
+    background-color: black
+    
+}
+tr {
+    background-color: white
+}
+
+.Maandag {
+    background-color: blue;
+}
+
+.Dinsdag {
+    background-color: gold;
+}
+
+.Woensdag {
+    background-color: green;
+}
+
+.Donderdag {
+    background-color: orange;
+}
+
+.Vrijdag {
+    background-color: red;
+}
+
+
+.tabel {
+    margin-left: 250px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+
+
+
+  .submit {
+    margin-left: 815px;
+    text-align: center;
+    margin-top: 25px;
+  }
+
